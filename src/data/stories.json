@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1,
+		"username": "alex",
+		"profileImage": "https://i.pravatar.cc/160?img=11",
+		"stories": [
+			{ "id": "1-1", "image": "https://picsum.photos/seed/story-1/720/1280" },
+			{ "id": "1-2", "image": "https://picsum.photos/seed/story-2/720/1280" }
+		]
+	},
+	{
+		"id": 2,
+		"username": "maria",
+		"profileImage": "https://i.pravatar.cc/160?img=32",
+		"stories": [
+			{ "id": "2-1", "image": "https://picsum.photos/seed/story-3/720/1280" }
+		]
+	},
+	{
+		"id": 3,
+		"username": "john",
+		"profileImage": "https://i.pravatar.cc/160?img=51",
+		"stories": [
+			{ "id": "3-1", "image": "https://picsum.photos/seed/story-4/720/1280" },
+			{ "id": "3-2", "image": "https://picsum.photos/seed/story-5/720/1280" },
+			{ "id": "3-3", "image": "https://picsum.photos/seed/story-6/720/1280" }
+		]
+	},
+	{
+		"id": 4,
+		"username": "emma",
+		"profileImage": "https://i.pravatar.cc/160?img=23",
+		"stories": [
+			{ "id": "4-1", "image": "https://picsum.photos/seed/story-7/720/1280" }
+		]
+	},
+	{
+		"id": 5,
+		"username": "liam",
+		"profileImage": "https://i.pravatar.cc/160?img=57",
+		"stories": [
+			{ "id": "5-1", "image": "https://picsum.photos/seed/story-8/720/1280" },
+			{ "id": "5-2", "image": "https://picsum.photos/seed/story-9/720/1280" }
+		]
+	},
+	{
+		"id": 6,
+		"username": "olivia",
+		"profileImage": "https://i.pravatar.cc/160?img=40",
+		"stories": [
+			{ "id": "6-1", "image": "https://picsum.photos/seed/story-10/720/1280" }
+		]
+	},
+	{
+		"id": 7,
+		"username": "noah",
+		"profileImage": "https://i.pravatar.cc/160?img=14",
+		"stories": [
+			{ "id": "7-1", "image": "https://picsum.photos/seed/story-11/720/1280" },
+			{ "id": "7-2", "image": "https://picsum.photos/seed/story-12/720/1280" }
+		]
+	},
+	{
+		"id": 8,
+		"username": "ava",
+		"profileImage": "https://i.pravatar.cc/160?img=25",
+		"stories": [
+			{ "id": "8-1", "image": "https://picsum.photos/seed/story-13/720/1280" },
+			{ "id": "8-2", "image": "https://picsum.photos/seed/story-14/720/1280" },
+			{ "id": "8-3", "image": "https://picsum.photos/seed/story-15/720/1280" }
+		]
+	},
+    {
+        "id": 9,
+        "username": "william",
+        "profileImage": "https://i.pravatar.cc/160?img=60",
+        "stories": [
+            { "id": "9-1", "image": "https://picsum.photos/seed/story-16/720/1280" }
+        ]
+    },
+    {
+        "id": 10,
+        "username": "sophia",
+        "profileImage": "https://i.pravatar.cc/160?img=45",
+        "stories": [
+            { "id": "10-1", "image": "https://picsum.photos/seed/story-17/720/1280" },
+            { "id": "10-2", "image": "https://picsum.photos/seed/story-18/720/1280" }
+        ]
+    }
+]
